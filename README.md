@@ -18,3 +18,10 @@ I am Marlon and currently working at [statworx](https://www.statworx.com) as a D
   <a href="https://www.tidyverse.org" target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" alt="tidyverse" width="40" height="40"/> </a> 
   <a href="https://ggplot2.tidyverse.org" target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/ggplot2.svg" alt="ggplot2" width="40" height="40"/> </a>
 </p>
+
+<p align="left"> 
+  <a href="https://kedro.org" target="_blank" rel="noreferrer"> <img src="https://kedro.readthedocs.io/en/0.17.0/_images/kedro_icon_no-type_whitebg.svg" alt="kedro" width="40" height="40"/> </a>
+  <a href="https://mlflow.org" target="_blank" rel="noreferrer"> <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" alt="mlflow" width="109" height="40"/> </a> 
+  <a href="https://mlflow.org" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker" width="155" height="40"/> </a> 
+</p>
+
