@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I am Marlon and currently working at [statworx](https://www.statworx.com) as a Data Scientist. I have already actively supported and managed many Data Science projects. In recent years, I have specialized in forecasting and other topics related to time series data. Furthermore, I am interested in NLP and explainable AI.
+I am Marlon and currently working at [statworx](https://www.statworx.com) as a Senior Data Scientist. I have already actively supported and managed many Data Science projects. In recent years, I have specialized in forecasting and other topics related to time series data. Furthermore, I am interested in NLP and explainable AI.
 
 #### Languages
 <p align="left"> 
@@ -21,7 +21,7 @@ I am Marlon and currently working at [statworx](https://www.statworx.com) as a D
 
 <p align="left"> 
   <a href="https://kedro.org" target="_blank" rel="noreferrer"> <img src="https://kedro.readthedocs.io/en/0.17.0/_images/kedro_icon_no-type_whitebg.svg" alt="kedro" width="40" height="40"/> </a>
-  <a href="https://mlflow.org" target="_blank" rel="noreferrer"> <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" alt="mlflow" width="109" height="40"/> </a> 
+  <a href="https://mlflow.org" target="_blank" rel="noreferrer"> <img src="https://mlflow.org/img/mlflow-black.svg" alt="mlflow" width="109" height="40"/> </a> 
   <a href="https://mlflow.org" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker" width="155" height="40"/> </a> 
 </p>
 
