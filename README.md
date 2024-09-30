@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I am Marlon and currently working at [statworx](https://www.statworx.com) as a Senior Data Scientist. I have already actively supported and managed many Data Science projects. In recent years, I have specialized in forecasting and other topics related to time series data. Furthermore, I am interested in NLP and explainable AI.
+I am Marlon and currently working at [statworx](https://www.statworx.com) as a Senior Data Scientist. I have already actively developed and managed many Data Science projects. During my time at statworx, I have specialized in forecasting and other topics related to time series data like anomaly detection. Explainable AI often plays a crucial role for the end user, making it an essential technical aspect to consider. In many projects, I implemented Explainable AI solutions, including the use of SHAP. Additionally, I have been involved in GenAI-related projects, where I developed LLM solutions using frameworks such as LangChain.
 
 #### Languages
 <p align="left"> 
